@@ -1,3 +1,3 @@
 # Repo-demo
 This is my first git repo <br>
-Author: Bharat Nair
+Author: Bharat Nair (VAST TC)
